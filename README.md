@@ -29,8 +29,7 @@ To run **Casmart** locally, run this command on your git bash:
 
 ```
 
-Windows:
-git clone https://github.com/adigarg14602/SHOPPING-LANDING-PAGE
+ https://github.com/adigarg14602/SHOPPING-LANDING-PAGE
 ```
 
 
