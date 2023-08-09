@@ -30,8 +30,6 @@ To run **Casmart** locally, run this command on your git bash:
 ```
 
 Windows:
-
-```bash
 git clone https://github.com/adigarg14602/SHOPPING-LANDING-PAGE
 ```
 
