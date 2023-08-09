@@ -7,7 +7,7 @@
 
   Casmart is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/adigarg14602/SHOPPING-LANDING-PAGE"><strong>➥ Live Demo</strong></a>
+  <a href="https://adigarg14602.github.io/SHOPPING-LANDING-PAGE/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
